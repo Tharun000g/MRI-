@@ -1,0 +1,6 @@
+.venv/
+.mplconfig/
+__pycache__/
+*.py[cod]
+output_images/*
+!output_images/.gitkeep

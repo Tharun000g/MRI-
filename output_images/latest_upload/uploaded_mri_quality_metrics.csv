@@ -1,0 +1,7 @@
+Metric,Original,Enhanced,Change,Interpretation
+"Mean intensity",90.8460,89.0628,-1.7832,"Brightness distribution"
+"Global contrast (standard deviation)",76.8388,85.1538,8.3150,"Higher can indicate greater overall tonal separation"
+"Robust dynamic range (P95-P5)",215.0000,240.0000,25.0000,"Higher indicates a wider useful intensity span"
+"Entropy",6.5632,6.3732,-0.1900,"Describes intensity-distribution complexity"
+"Edge strength (Laplacian variance)",177.2011,748.0784,570.8774,"Higher can indicate stronger visible edges"
+"Zero-value pixels (%)",1.2381,31.1231,29.8850,"Background suppression; not a standalone quality score"
